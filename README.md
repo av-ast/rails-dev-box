@@ -31,7 +31,7 @@ Building the virtual machine is this easy:
 
 That's it.
 
-If the base box is not present that command fetches it first. 
+If the base box is not present it will be fetched first.
 If during the installation you will be asked to enter the password for
 vagrant user, just enter `vagrant`.
 After the installation has finished, you can access the virtual machine with
