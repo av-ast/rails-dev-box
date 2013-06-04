@@ -19,7 +19,7 @@ working on Rails applications.
 Building the virtual machine is this easy:
 
     host $ git clone https://github.com/av-ast/rails-dev-box.git
-    host $ rails-dev-box
+    host $ cd rails-dev-box
     host $ bundle install
     host $ cd vagrant/rails-dev-box
     host $ bundle install
