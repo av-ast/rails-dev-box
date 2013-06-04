@@ -14,6 +14,8 @@ working on Rails applications.
 
 * [ssh-copy-id](http://linux.die.net/man/1/ssh-copy-id)
 
+* `nfs-kernel-server` package is required for Ubuntu users
+
 ## How To Build The Virtual Machine
 
 Building the virtual machine is this easy:
