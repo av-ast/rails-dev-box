@@ -10,7 +10,7 @@ working on Rails applications.
 * [VirtualBox](https://www.virtualbox.org)
 
 * [Vagrant](http://vagrantup.com)
-    >= 1.1.2 required
+    \>= 1.1.2 required
 
 * [ssh-copy-id](http://linux.die.net/man/1/ssh-copy-id)
 
